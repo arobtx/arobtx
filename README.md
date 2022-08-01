@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @arobtx
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning Ansible,Azure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: YT/IG @madm1n
+- 👀 I’m interested in Cloud, 
+- 🌱 I’m currently learning Python,Azure
+- 💞️ I’m looking to collaborate on Kickass coding projects to strengthen my skills
+- 📫 How to reach me: YT/IG @the_mad_admin
+- NSW Friend Code: SW-7538-1172-226 
 
 <!---
 arobtx/arobtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
